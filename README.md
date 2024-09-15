@@ -17,7 +17,7 @@ Estamos entusiasmados em anunciar a nova atualização **Versão 5.5.2**! Esta v
 - **Melhorias nas Respostas**: As respostas do assistente estão agora mais precisas e rápidas, oferecendo uma interação mais fluida e eficiente.
 - **Correção de Bugs**: Resolvemos diversos problemas identificados nas versões anteriores para garantir um desempenho mais estável e confiável.
 - **Novo Visual em Comandos**: Atualizamos a interface de alguns comandos para deixá-los mais modernos e intuitivos.
-- **Implementação do Sistema de Música**:
+- **Implementação de novos comandos no Sistema de Música**:
   - **/nowplaying**: Informa a música que está sendo tocada atualmente.
   - **/volume**: Gerencie o volume de sua música.
 - **Novos Comandos Gerais**:
