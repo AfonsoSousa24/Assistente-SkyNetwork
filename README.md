@@ -34,5 +34,5 @@ Siga-nos e mantenha-se atualizado com as últimas notícias e atualizações do 
 
 ---
 
-Se tiver qualquer dúvida ou sugestão, não hesite em nos contatar através do [Discord](https://discord.gg/seulink). Agradecemos por fazer parte da nossa jornada e esperamos que o Assistente SkyNetwork torne sua experiência no Discord ainda mais incrível!
+Se tiver qualquer dúvida ou sugestão, não hesite em nos contatar através do [Discord](https://discord.gg/https://discord.gg/Z3hkybMfHE). Agradecemos por fazer parte da nossa jornada e esperamos que o Assistente SkyNetwork torne sua experiência no Discord ainda mais incrível!
 
