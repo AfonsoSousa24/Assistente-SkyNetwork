@@ -10,17 +10,18 @@ O Assistente SkyNetwork é um bot projetado para transformar a maneira como voc�
 
 ## 🚀 Atualizações Recentes ✨
 
-### **Versão 5.5.1**
+### **Versão 5.5.2**
 
-Estamos entusiasmados em anunciar a nova atualização **Versão 5.5.1**! Esta versão traz melhorias significativas e novos recursos para otimizar sua experiência com o Assistente SkyNetwork:
+Estamos entusiasmados em anunciar a nova atualização **Versão 5.5.2**! Esta versão traz melhorias significativas e novos recursos para otimizar sua experiência com o Assistente SkyNetwork:
 
 - **Melhorias nas Respostas**: As respostas do assistente estão agora mais precisas e rápidas, oferecendo uma interação mais fluida e eficiente.
 - **Correção de Bugs**: Resolvemos diversos problemas identificados nas versões anteriores para garantir um desempenho mais estável e confiável.
-- **Implementação do Sistema de Mineração**:
-  - **/minerar**: Minere seus ouros e aumente seu saldo no jogo.
-  - **/topsaldo**: Veja quem está no topo do ranking de saldos.
-  - **/saldo**: Confira o seu saldo atual de ouros.
-  - **/pix**: Envie seus ouros para outros jogadores de forma fácil e rápida.
+- **Novo Visual em Comandos**: Atualizamos a interface de alguns comandos para deixá-los mais modernos e intuitivos.
+- **Implementação do Sistema de Música**:
+  - **/nowplaying**: Informa a música que está sendo tocada atualmente.
+  - **/volume**: Gerencie o volume de sua música.
+- **Novos Comandos Gerais**:
+  - **/sugerir**: Envie sua sugestão para o Discord ou para o Minecraft.
 
 Estamos comprometidos em oferecer a melhor experiência possível e continuaremos a trabalhar em melhorias e novos recursos. Agradecemos seu apoio contínuo!
 
@@ -34,5 +35,4 @@ Siga-nos e mantenha-se atualizado com as últimas notícias e atualizações do 
 
 ---
 
-Se tiver qualquer dúvida ou sugestão, não hesite em nos contatar através do [Discord](https://discord.gg/https://discord.gg/Z3hkybMfHE). Agradecemos por fazer parte da nossa jornada e esperamos que o Assistente SkyNetwork torne sua experiência no Discord ainda mais incrível!
-
+Se tiver qualquer dúvida ou sugestão, não hesite em nos contatar através do [Discord](https://discord.gg/Z3hkybMfHE). Agradecemos por fazer parte da nossa jornada e esperamos que o Assistente SkyNetwork torne sua experiência no Discord ainda mais incrível! 😊🚀
