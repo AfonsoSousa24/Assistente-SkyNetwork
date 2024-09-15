@@ -26,7 +26,7 @@ Estamos comprometidos em oferecer a melhor experiência possível e continuaremo
 
 ## 🌐 Junte-se à Nossa Comunidade!
 
-Para suporte, atualizações e para interagir com outros usuários, não deixe de se juntar ao nosso servidor [Discord](https://discord.gg/seulink). É o lugar ideal para tirar dúvidas, compartilhar feedback e fazer parte da nossa comunidade vibrante!
+Para suporte, atualizações e para interagir com outros usuários, não deixe de se juntar ao nosso servidor [Discord](https://discord.gg/Z3hkybMfHE). É o lugar ideal para tirar dúvidas, compartilhar feedback e fazer parte da nossa comunidade vibrante!
 
 ## 📢 Fique Atualizado!
 
